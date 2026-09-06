@@ -9,7 +9,7 @@ My work sits at the intersection of **Artificial Intelligence, Machine Learning,
 Currently building and experimenting with AI-driven products while continuously improving my skills through hands-on projects, technical challenges, and real-world development.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=1Maazansari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
